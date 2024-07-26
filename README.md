@@ -34,7 +34,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/stock-market-india-algo-trading.git
+git clone https://github.com/Utkarsh-Agarwal14/Stock-India.git
 cd stock-market-india-algo-trading
 Ensure you have the dataset in the input/stock-market-india directory.
 Open the Jupyter notebook:
